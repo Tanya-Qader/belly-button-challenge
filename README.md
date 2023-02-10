@@ -12,17 +12,17 @@ Complete the following steps:
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-  * Use sample_values as the values for the bar chart.
-  * Use otu_ids as the labels for the bar chart.
-  * Use otu_labels as the hovertext for the chart.
+   * Use sample_values as the values for the bar chart.
+   * Use otu_ids as the labels for the bar chart.
+   * Use otu_labels as the hovertext for the chart.
 
 3. Create a bubble chart that displays each sample.
 
-  * Use otu_ids for the x values.
-  * Use sample_values for the y values.
-  * Use sample_values for the marker size.
-  * Use otu_ids for the marker colors.
-  * Use otu_labels for the text values.
+   * Use otu_ids for the x values.
+   * Use sample_values for the y values.
+   * Use sample_values for the marker size.
+   * Use otu_ids for the marker colors.
+   * Use otu_labels for the text values.
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
@@ -33,3 +33,6 @@ Complete the following steps:
 
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+![image](https://user-images.githubusercontent.com/116117065/217998448-eea9df29-82e3-4bde-a2bd-959cfe167d16.png)
+
